@@ -3,14 +3,14 @@ The simplest and best setup for kotlin project with JavaFX and Gradle.
 This is a complete step by step setup.
 Setup includes setup of build.gradle, mainclass, fxml and controller.
 
-#**Pre-requisites: **
+# **Pre-requisites: **
 **JDK version used: 11.0.1**, All versions of JDK 11 should work
 **Kotlin plugin used: 1.4.32
 Gradle version used: 5.3.1**
 (You can check steps to check Gradle version in _Steps to Implement_)
 **IntelliJ Idea IDE**
 
-#**Steps to Implement: **
+# **Steps to Implement: **
 Step 1: Open IntelliJ Idea and click on create new project.
 Select Gradle, Java and Kotlin like in following image.
 
