@@ -1,7 +1,7 @@
 # Kotlin-JavaFX-Gradle-SimpleSetup
-The simplest and best setup for kotlin project with JavaFX and Gradle.
-This is a complete step by step setup.
-Setup includes setup of build.gradle, mainclass, fxml and controller.
+The simplest and best setup for kotlin project with JavaFX and Gradle.\n
+This is a complete step by step setup.\n
+Setup includes setup of build.gradle, mainclass, fxml and controller.\n
 
 # **Pre-requisites: **
 **JDK version used: 11.0.1**, All versions of JDK 11 should work
