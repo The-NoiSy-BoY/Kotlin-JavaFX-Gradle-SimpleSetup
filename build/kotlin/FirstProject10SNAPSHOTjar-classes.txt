@@ -1,0 +1,1 @@
+D:\Workspace Intellij\samples-master\HelloFX\Gradle\FirstProject\build\classes\kotlin\main\org\test\FXMLController.class;D:\Workspace Intellij\samples-master\HelloFX\Gradle\FirstProject\build\classes\kotlin\main\org\test\MainClass.class
