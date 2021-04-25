@@ -1,10 +1,7 @@
 # Kotlin-JavaFX-Gradle-SimpleSetup
 The simplest and best setup for kotlin project with JavaFX and Gradle.
 
-This is a complete step by step setup.
-
-Setup includes setup of build.gradle, mainclass, fxml and controller.
-
+This is a complete step by step guilde to use OpenJFX with Kotlin and Gradle.
 
 # **Pre-requisites: **
 **JDK version used: 11.0.1**, All versions of JDK 11 should work
@@ -12,7 +9,7 @@ Setup includes setup of build.gradle, mainclass, fxml and controller.
 **Kotlin plugin used: 1.4.32**
 
 **Gradle version used: 5.3.1**
-(You can check steps to check Gradle version in _Steps to Implement_)
+(You can check steps to check Gradle version in _Steps to Implement_ section)
 
 **IntelliJ Idea IDE**
 
