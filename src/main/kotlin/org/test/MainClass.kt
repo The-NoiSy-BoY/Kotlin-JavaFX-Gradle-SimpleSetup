@@ -16,8 +16,13 @@ class MainClass: Application() {
         primaryStage?.scene = scene
         primaryStage?.show()
     }
+
+    companion object {
+        @JvmStatic
+        public fun main (args:Array<String>)
+        {
+            launch(MainClass::class.java)
+        }
+    }
 }
 
-fun main(args: Array<String>) {
-    launch()
-}
