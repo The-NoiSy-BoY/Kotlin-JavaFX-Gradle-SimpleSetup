@@ -1,4 +1,4 @@
-#[To clone and make changes to this project, fill the form here](https://www.google.com)
+#[To clone and make changes to this project, fill the form here](https://the-noisy-boy.github.io/Kotlin-JavaFX-Gradle-SimpleSetup/)
 
 # Kotlin-JavaFX-Gradle-SimpleSetup
 The simplest and best setup for kotlin project with JavaFX and Gradle.
